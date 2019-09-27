@@ -2027,6 +2027,3 @@ newMail.body = text_body
 newMail.Attachments.Add('C:/Users/ccraig/Desktop/New folder/'+ str(current) + str('PNL Discrepancy.xlsx'))
 newMail.display()
 newMail.Send()
-
-
-#comment
